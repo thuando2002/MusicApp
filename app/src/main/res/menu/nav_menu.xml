@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_house_24"
+        android:title="Trang chủ"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/libraryFragment"
+        android:icon="@drawable/ic_baseline_view_week_24"
+        android:title="Thư viện"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/premiumFragment"
+        android:icon="@drawable/ic_baseline_house_24"
+        android:title="Premium"
+        app:showAsAction="always" />
+
+</menu>
